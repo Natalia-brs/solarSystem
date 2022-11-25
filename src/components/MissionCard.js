@@ -22,4 +22,4 @@ MissionCard.propTypes = {
   destination: PropTypes.string.isRequired,
 };
 
-export default MissionCard
+export default MissionCard;
