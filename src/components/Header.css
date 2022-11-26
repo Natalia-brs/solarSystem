@@ -1,4 +1,13 @@
 .header {
-    display: flex;
-    justify-content: center;
+  color: aliceblue;
+  display: flex;
+  font-family: monospace;
+  font-size: 1.5em;
+  justify-content: center;
+}
+
+.titulo {
+  color: aliceblue;
+  font-family: Franklin Gothic Medium , Arial Narrow , Arial , sans-serif;
+  font-size: 1.9em;
 }

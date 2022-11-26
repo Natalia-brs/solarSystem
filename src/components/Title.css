@@ -1,4 +1,5 @@
 .planets {
-    display: flex;
-    justify-content: center;
+  border: 1px solid wheat;
+  display: flex;
+  justify-content: center;
 }

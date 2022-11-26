@@ -1,0 +1,24 @@
+.missions {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(100px, 1fr));
+}
+
+.text {
+  color: aliceblue;
+  text-align: center;
+}
+
+.MissionsCard {
+  border-radius: 50px;
+  box-shadow: 0 0 0.5em white;
+  font-family: Franklin Gothic Medium , Arial Narrow , Arial , sans-serif;
+  font-size: 1em;
+  margin: 10px;
+}
+
+.MissionName {
+  color: antiquewhite;
+  font-family: monospace;
+  font-size: 1.4em;
+  font-weight: 800;
+}

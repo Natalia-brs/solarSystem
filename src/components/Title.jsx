@@ -1,13 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './Title.css';
+import './Header.css';
 
 class Title extends React.Component {
   render() {
     const { headline } = this.props;
 
     return (
-      <h2 className="planets">{ headline }</h2>
+      <h2 className="titulo text">{ headline }</h2>
     );
   }
 }
