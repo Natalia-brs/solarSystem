@@ -1,14 +1,14 @@
 .components img {
-  width: 80px;
+  width: 100px;
 }
 
 
 .components:nth-child( 5 ) img {
-  width: 200px;
+  width: 250px;
 }
 
 .components:nth-child( 6 ) img {
-  width: 200px;
+  width: 250px;
 }
 
 .components {
@@ -17,8 +17,8 @@
   flex-direction: column;
   height: 200px;
   justify-content: center;
+  margin: 20px;
   transition: transform 0.5s ease;
-  width: 180px;
 }
 
 .components:hover {
@@ -32,5 +32,7 @@
 }
 
 body {
-  background-image: url('../images/background.png');
+  background-image: url('../images/universe.jpg');
+  background-position: right 800%;
+  background-size: cover;
 }

@@ -1,4 +1,7 @@
 .missions {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 20px;
+  box-shadow: 0 0 0.2em white;
   display: grid;
   grid-template-columns: repeat(4, minmax(100px, 1fr));
 }
@@ -9,11 +12,12 @@
 }
 
 .MissionsCard {
-  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
   box-shadow: 0 0 0.5em white;
   font-family: Franklin Gothic Medium , Arial Narrow , Arial , sans-serif;
   font-size: 1em;
-  margin: 10px;
+  margin: 25px;
 }
 
 .MissionName {
