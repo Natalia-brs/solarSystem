@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Solar System
+Projeto realizado na trybe, onde pudemos conhecer melhor o utilização das props e tambem a componentização do react, e tecnicas de posicionamento com o CSS.
+O projeto exibe uma lista de missões espaciais e seus respectivos planetas
+
+
+# Tecnologias Aplicadas
+
+- HTML5
+- CSS
+- Javascript
+- React
+
+# Deploy
+https://solar-system-dusky.vercel.app/
